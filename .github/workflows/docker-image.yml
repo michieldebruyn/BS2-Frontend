@@ -18,4 +18,4 @@ jobs:
 
     - name: Docker push
       run: |
-        docker push michielderbuyn/bs2-frontend
+        docker push michieldebruyn/bs2-frontend
