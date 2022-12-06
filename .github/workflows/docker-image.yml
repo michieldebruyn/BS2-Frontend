@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: michieldebruyn/BS2-Frontend
+          tags: michieldebruyn/bs2-frontend
